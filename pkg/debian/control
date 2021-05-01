@@ -1,0 +1,19 @@
+Source: dualword
+Section: education
+Priority: optional
+Maintainer:
+Build-Depends: debhelper (>= 9), libqt4-dev (>= 4.6), festival-dev (>= 2.0),
+ libestools2.1-dev (>= 2.1), libxapian-dev (>= 1.2)
+Standards-Version: 3.9.3
+Homepage: http://github.com/dualword/
+Vcs-Browser: http://github.com/dualword/dualword/
+
+Package: dualword
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Foreign language vocabulary trainer
+ Features include:
+   -Single choice questions.
+   -Text to speech support (Festival speech synthesis system).
+   -User statistics.
+   -Languages: English, German, French, Spanish, Russian.   

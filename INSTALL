@@ -1,0 +1,5 @@
+How to build:
+- download the latest version from http://github.com/dualword/dualword/
+- cd dualword
+- qmake
+- make

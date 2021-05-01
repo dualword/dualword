@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=DualWord
+Comment=Foreign language vocabulary trainer
+Exec=/usr/bin/dualword
+Icon=dualword-icon
+Terminal=false
+Type=Application
+MimeType=text/plain
+Categories=Education;

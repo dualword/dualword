@@ -1,0 +1,7 @@
+?package(dualword): \
+	needs="X11" \
+	hints="Education,Languages" \
+	section="Applications/Education" \
+	title="DualWord" command="/usr/bin/dualword"
+#	icon="/usr/share/pixmaps/dualword.xpm"
+	

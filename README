@@ -1,0 +1,9 @@
+DualWord is a foreign language vocabulary trainer for Linux.
+Features include:
+- Single choice questions.
+- Text to speech support.
+- User statistics.
+- Languages: English, German, French, Spanish, Russian.
+
+License: GNU GENERAL PUBLIC LICENSE Version 3
+Source code: http://github.com/dualword/dualword/
