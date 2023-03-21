@@ -11,7 +11,8 @@ Third Party Software:
  - Xapian 1.2.12 License: GNU General Public License  
 
 License: GNU GENERAL PUBLIC LICENSE Version 3  
-Source code: http://github.com/dualword/dualword/  
+Source code: https://github.com/dualword/dualword  
+Files: https://sourceforge.net/projects/dualword  
 
 <img src="etc/screenshot/dualword1.gif" width="300" height="400">&nbsp;
 <img src="etc/screenshot/dualword2.gif" width="300" height="400">&nbsp;<br>
