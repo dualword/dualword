@@ -12,10 +12,13 @@ Third Party Software:
 
 License: GNU GENERAL PUBLIC LICENSE Version 3  
 Source code: https://github.com/dualword/dualword  
-Files: https://sourceforge.net/projects/dualword  
 
-<img src="etc/screenshot/dualword1.gif" width="300" height="400">&nbsp;
-<img src="etc/screenshot/dualword2.gif" width="300" height="400">&nbsp;<br>
-<img src="etc/screenshot/dualword3.gif" width="300" height="400">&nbsp;
-<img src="etc/screenshot/dualword4.gif" width="300" height="400">&nbsp;<br>
-<img src="etc/screenshot/dualword5.gif" width="300" height="400">&nbsp;
+<p float="middle">
+<img src="etc/screenshot/dualword1.gif" width="200" height="250">&nbsp;
+<img src="etc/screenshot/dualword2.gif" width="200" height="250">&nbsp;
+<img src="etc/screenshot/dualword3.gif" width="200" height="250">&nbsp;
+</p>
+<p float="middle">
+<img src="etc/screenshot/dualword4.gif" width="200" height="250">&nbsp;
+<img src="etc/screenshot/dualword5.gif" width="200" height="250">&nbsp;
+</p>
