@@ -14,11 +14,9 @@ License: GNU GENERAL PUBLIC LICENSE Version 3
 Source code: https://github.com/dualword/dualword  
 
 <p float="middle">
-<img src="etc/screenshot/dualword1.gif" width="200" height="250">&nbsp;
-<img src="etc/screenshot/dualword2.gif" width="200" height="250">&nbsp;
-<img src="etc/screenshot/dualword3.gif" width="200" height="250">&nbsp;
-</p>
-<p float="middle">
-<img src="etc/screenshot/dualword4.gif" width="200" height="250">&nbsp;
-<img src="etc/screenshot/dualword5.gif" width="200" height="250">&nbsp;
+<img src="etc/screenshot/dualword1.gif" width="100" height="200">&nbsp;
+<img src="etc/screenshot/dualword2.gif" width="100" height="200">&nbsp;
+<img src="etc/screenshot/dualword3.gif" width="100" height="200">&nbsp;
+<img src="etc/screenshot/dualword4.gif" width="100" height="200">&nbsp;
+<img src="etc/screenshot/dualword5.gif" width="100" height="200">&nbsp;
 </p>
